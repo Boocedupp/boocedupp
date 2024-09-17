@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning more about how Linux kernel works.
 - 👯 I’m looking to collaborate on anything!
 - 📫 How to reach me: I'm always available on Discord at Boocedup
+- ❓ Ask me about anything
 <!--
 **Boocedupp/boocedupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
