@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+##- 🔭 I’m currently working on a custom CoreXY 3d printer design
+##- 🌱 I’m currently learning more about how Linux kernel works.
+##- 👯 I’m looking to collaborate on anything!
+##- 📫 How to reach me: I'm always available on Discord at Boocedup
 <!--
 **Boocedupp/boocedupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
